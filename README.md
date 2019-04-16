@@ -10,17 +10,17 @@
 ## To Login
 * Add username & password in mysql database
 
-* Customer Login 
-
-   - ID: user1
-
-   - PW: user1
-
 * Admin Login 
 
    - ID: admin1
 
    - PW: admin1
+
+* User Login 
+
+   - ID: user1
+
+   - PW: user1
 
 ## Screenshot
 * Login Page
